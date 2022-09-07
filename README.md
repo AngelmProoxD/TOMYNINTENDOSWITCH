@@ -1,1 +1,1 @@
-http://localhost:8000/Downloads/
+http://192.168.136.1:8000/Downloads/
