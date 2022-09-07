@@ -1,1 +1,1 @@
-192.168.1.136:8000
+https://translate.google.es/
